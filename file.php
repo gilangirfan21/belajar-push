@@ -8,6 +8,7 @@
 <body>
     <h1>Hello World</h1>
     <hr>
+    <h2>Hello World</h2>
     <p>ini paragraph</p>
     
 </body>
