@@ -7,6 +7,8 @@
 </head>
 <body>
     <h1>Hello World</h1>
+    <hr>
     <p>ini paragraph</p>
+    
 </body>
 </html>
